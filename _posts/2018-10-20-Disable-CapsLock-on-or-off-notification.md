@@ -20,7 +20,7 @@ sony e14p老笔记本在按大小键切换时，右下角会出现小提示框�
 
 2. *找到HKEY_LOCAL_MACHINE\SOFTWARE\ATHEROS\VistaAddOn\KBNotify*
 
-   ![image01](self_pic/2018-10-20/2018-10-20-12-11-00.png)
+   ![image00](self_pic/2018-10-20/2018-10-20-12-11-00.png)
 
 3. *将其值从1设置成0*
 
