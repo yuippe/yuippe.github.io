@@ -1,8 +1,15 @@
-### github+jekyll 博客搭建
+---
+layout: post
+title:  "github+jekyll 博客搭建"
+date:   2018-10-20 12:40:18 +0800
+categories: jekyll
+tags: github jekyll
+author: yuippe
+---
 
-------
 
-[TOC]
+* content
+{:toc}
 
 #### 背景
 
@@ -18,11 +25,11 @@
 
 3、点击Settings，修改对应的Repository name，其中前缀需要与自己的账号一致
 
-![image01](self_pic/2018-10-20/2018-10-20-12-39-00.png)
+![image01]({{ "/self_pic/2018-10-20/2018-10-20-12-39-00.png" | absolute}})
 
 4、向下滚动页面，选择一个主题，如果看到2步骤所示内容，即可远程访问
 
-![image02](self_pic\2018-10-20/2018-10-20_124035.png)
+![image02]({{ "/self_pic/2018-10-20/2018-10-20_124035.png" | absolute}})
 
 ##### 二、git环境+代码拉取
 
@@ -74,7 +81,7 @@ cd E:\github\yuippe.github.io
 jekyll serve
 ```
 
-![image03](self_pic/2018-10-20/2018-10-20_131443.png)
+![image03]({{ "/self_pic/2018-10-20/2018-10-20_131443.png" | absolute}})
 
 > 备注：
 >
