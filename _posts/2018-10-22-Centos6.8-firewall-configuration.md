@@ -8,7 +8,8 @@ author: yuippe
 
 ---
 
-[TOC]
+* content
+{:toc}
 
 #### 背景
 
