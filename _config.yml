@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Yuippe&&Aaron专栏
-brief-intro: information pool
+title: IT技术学习
+brief-intro: yuippe zoom
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yuippe.github.io" # the base hostname & protocol for your site
+url: "https://www.umember.club" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #gaohaoyang126
-facebook_username: #gaohaoyang.water
+twitter_username: 
+facebook_username: 
 github_username:  yuippe
 email: aaron.yuippe.zhou@gmail.com
 weibo_username: 
